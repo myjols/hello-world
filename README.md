@@ -1,6 +1,4 @@
 # hello-world
-This is a tutorial repo, just to test
-My interrest is bit of coding!
-Little more info
-Changed some size of text
-Hey
+:eyes:
+_Yes! this is nice_
+*Bold also*

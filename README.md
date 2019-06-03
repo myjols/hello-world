@@ -1,5 +1,6 @@
-# hello-world
+# Hello-world
 :eyes:
 _Yes! this is nice_
+
 *Bold also*
-High again and even more
+High again and even more text
